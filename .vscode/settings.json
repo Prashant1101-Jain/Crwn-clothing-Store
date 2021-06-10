@@ -1,4 +1,4 @@
 {
     "editor.fontLigatures": "allfontLigratures",
-    "editor.fontFamily": "'Operator mono log','Fira Code',Consolas, 'Courier New', monospace"
+    "editor.fontFamily": "'Operator mono log','Fira code',Consolas, 'Courier New', monospace"
 }
