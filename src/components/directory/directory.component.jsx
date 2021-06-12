@@ -32,7 +32,7 @@ class Directory extends React.Component {
                 size: 'large',
                 id: 4,
                 linkUrl: '',
-                'size': 'large'
+                size: 'large'
               },
               {
                 title: 'mens',
